@@ -12,8 +12,8 @@ metadata:
   namespace: istio-system
 spec:
   apigee_base: https://istioservices.apigee.net/edgemicro
-  customer_base: https://luiangelrah-eval-test.apigee.net/istio-auth
-  org_name: luisangelrah-eval
-  env_name: test
-  key: 06a40b65005d03ea24c0d53de69ab795590b0c332526e97fed549471bdea00b9
-  secret: 93550179f344150c6474956994e0943b3e93a3c90c64035f378dc05c98389633
+  customer_base: REPLACE ME
+  org_name: REPLACE ME
+  env_name: REPLACE ME
+  key: REPLACE ME
+  secret: REPLACE ME
